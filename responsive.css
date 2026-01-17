@@ -270,8 +270,8 @@ font-style: oblique;
     height: 20px;
     font-size: 10px;
     border-radius: 7px;
-   background-color: #6896ae;
-   color: white;
+    background-color: #6896ae;
+    color: white;
     border:none;  
 }
   .second-bg{
@@ -286,7 +286,7 @@ font-style: oblique;
 }
 }
 
-@media (max-width: 412px) {
+@media (max-width: 439px) {
 
 .header{
     padding: 2px;
@@ -296,9 +296,6 @@ font-style: oblique;
     font-size: 7px;
     padding-right: 10px;
     border-radius: 2px ;
-    display: flex;
-    justify-content: end;
-    align-items: center;
     gap: 10px;
     
 }
