@@ -1,0 +1,471 @@
+@media (max-width: 899px) {
+  .bg-image {
+    background-image: url('work-pics.jpg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 60vh;
+  }
+
+  .footer {
+    display: flex;
+     justify-content: space-between;
+     text-align: center;
+    flex-direction: column;
+  }
+
+  .second-bg{
+  background-image: url('work-image2.jpg');
+  background-size: cover;  
+  background-position: center; 
+  background-repeat: no-repeat;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+}
+@media (max-width: 699px) {
+
+.nav-h1{
+    margin-top: 8px;
+    font-size: 15px; 
+}
+
+
+.list ul{
+    display: flex;
+    gap: 20px;
+}
+ul li{
+    list-style-type: none;
+}
+.content{
+  margin-top: 8px;
+  font-size: 12px;
+  
+}
+.icon-nav{
+    margin-top: 8px;
+    display: flex;
+    gap: 10px;
+    color: #73a6b3;
+}
+.btn{
+    margin-top: 8px;
+    width: 70px;
+    height: 24px;
+    font-size: 8px;
+    border-radius: 7px;
+}
+
+
+   .bg-image {
+    background-image: url('work-pics.jpg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 50vh;
+  }
+
+
+  .second-bg{
+  background-image: url('work-image2.jpg');
+  background-size: cover;  
+  background-position: center; 
+  background-repeat: no-repeat;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+}
+
+@media (max-width: 599px) {
+
+.nav-h1{
+    margin-top: 8px;
+    font-size: 15px; 
+}
+
+.list ul{
+    display: flex;
+    gap: 20px;
+}
+ul li{
+    list-style-type: none;
+}
+.content{
+  margin-top: 8px;
+  font-size: 12px;
+  
+}
+.icon-nav{
+    margin-top: 8px;
+    display: flex;
+    gap: 10px;
+    color: #73a6b3;
+}
+.btn{
+    margin-top: 8px;
+    width: 70px;
+    height: 24px;
+    font-size: 8px;
+    border-radius: 7px;
+    background-color:  #6896ae;
+    color: white;
+    border:none;
+}
+
+   .bg-image {
+    background-image: url('work-pics.jpg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 40vh;
+  }
+
+  .item-text{
+    box-shadow: 0px 2px 2px 2px white;
+    background-color: white;
+    padding: 30px;
+    height: 220px;
+}
+.item-texts{
+    box-shadow: 0px 2px 2px 2px white;
+    background-color: white;
+    padding: 25px;
+    max-width: 200px;
+    height: 220px;
+}
+
+.images{
+    display: flex;
+    max-width: 250px;
+    max-height: 270px;
+    min-width: 250px;
+    min-height: 270px;
+    box-shadow: 0px 2px 2px 2px  #73a6b3;
+}
+
+.image{
+    display: flex;
+    max-width: 260px;
+    max-height: 260px;
+    min-width: 260px;
+    min-height: 260px;
+    box-shadow: 0px 2px 2px 2px  #73a6b3;
+}
+
+  .second-bg{
+  background-image: url('work-image2.jpg');
+  background-size: cover;  
+  background-position: center; 
+  background-repeat: no-repeat;
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+}
+
+@media (max-width: 499px) {
+
+.nav-h1{
+    margin-top: 8px;
+    font-size: 15px; 
+}
+
+.list ul{
+    display: flex;
+    gap: 10px;
+}
+ul li{
+    list-style-type: none;
+}
+.content{
+  margin-top: 8px;
+  font-size: 12px;
+}
+.icon-nav{
+    margin-top: 8px;
+    display: flex;
+    gap: 8px;
+    color: #73a6b3;
+}
+.btn{
+    margin-top: 8px;
+    width: 60px;
+    height: 20px;
+    font-size: 8px;
+    border-radius: 7px;
+    background-color:  #6896ae;
+    color: white;
+    border:none;
+}
+.bg-h1{
+font-size: 12px;
+font-style: oblique;
+}
+.bg-p{
+    font-size: 6px;
+}
+
+   .bg-image {
+    background-image: url('work-pics.jpg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 30vh;
+  }
+
+  .item-text{
+    box-shadow: 0px 2px 2px 2px white;
+    background-color: white;
+    padding: 20px;
+    height: 200px;
+}
+.item-texts{
+    box-shadow: 0px 2px 2px 2px white;
+    background-color: white;
+    padding: 20px;
+    max-width: 180px;
+    height: 200px;
+}
+.text-h1{
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text-span{
+    font-size: 8px;
+    font-family: 'Times New Roman', Times, serif; 
+}
+
+.images{
+    display: flex;
+    max-width: 220px;
+    max-height: 240px;
+    min-width: 220px;
+    min-height: 240px;
+    box-shadow: 0px 2px 2px 2px  #73a6b3;
+}
+
+.image{
+    display: flex;
+    max-width: 200px;
+    max-height: 240px;
+    min-width: 200px;
+    min-height: 240px;
+    box-shadow: 0px 2px 2px 2px  #73a6b3;
+}
+.btn-flex{
+    margin-top: 15px;
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+.btns{
+    margin-top: 8px;
+    width: 70px;
+    height: 20px;
+    font-size: 10px;
+    border-radius: 7px;
+   background-color: #6896ae;
+   color: white;
+    border:none;  
+}
+  .second-bg{
+  background-image: url('work-image2.jpg');
+  background-size: cover;  
+  background-position: center; 
+  background-repeat: no-repeat;
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+}
+
+@media (max-width: 412px) {
+
+.header{
+    padding: 2px;
+    background-color:  #6896ae;
+    text-align: end;
+    color: white;
+    font-size: 7px;
+    padding-right: 10px;
+    border-radius: 2px ;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 10px;
+    
+}
+
+
+  .nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: aliceblue;
+    align-items: center;
+}
+
+.nav-h1{
+    margin-top: 5px;
+    font-size: 9px; 
+    margin-left:5px ;
+}
+
+.list ul{
+    display: flex;
+    gap: 6px;
+}
+ul li{
+    list-style-type: none;
+}
+.content{
+  margin-top: 5px;
+  font-size: 8px;
+  
+}
+.icon-nav{
+    margin-top: 5px;
+    display: flex;
+    gap: 4px;
+    font-size: 8px;
+    color: #73a6b3;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.btn{
+    margin-top: 8px;
+    width: 50px;
+    height: 16px;
+    font-size: 5px;
+    border-radius: 4px;
+   
+}
+.bg-h1{
+font-size: 8px;
+font-style: oblique;
+}
+.bg-p{
+    font-size: 4px;
+}
+
+   .bg-image {
+    background-image: url('work-pics.jpg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 30vh;
+  }
+
+  .item-text{
+    box-shadow: 0px 2px 2px 2px white;
+    background-color: white;
+    padding: 10px;
+    height: 150px;
+}
+.item-texts{
+    box-shadow: 0px 2px 2px 2px white;
+    background-color: white;
+    padding: 10px;
+    max-width: 130px;
+    height: 150px;
+}
+.text-h1{
+    font-size: 7px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text-span{
+    font-size: 4px;
+    
+    font-family:Arial, Helvetica, sans-serif; 
+}
+
+.images{
+    display: flex;
+    max-width: 140px;
+    max-height: 170px;
+    min-width: 140px;
+    min-height: 170px;
+    box-shadow: 0px 2px 2px 2px  #73a6b3;
+}
+
+.image{
+    display: flex;
+    max-width: 120px;
+    max-height: 160px;
+    min-width: 120px;
+    min-height: 160px;
+    box-shadow: 0px 2px 2px 2px  #73a6b3;
+}
+.btn-flex{
+    margin-top: 4px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.btns{
+    margin-top: 4px;
+    width: 60px;
+    height: 15px;
+    font-size: 6px;
+    border-radius: 5px;
+   background-color: #6896ae;
+   color: white;
+    border:none;  
+}
+  .second-bg{
+  background-image: url('work-image2.jpg');
+  background-size: cover;  
+  background-position: center; 
+  background-repeat: no-repeat;
+  height: 30vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.second-bg-txt{
+    font-size: 10px;
+ 
+}
+
+.footer{
+  
+    padding: 10px;
+}
+.main-footer-p{
+margin-top: 0px;
+margin-bottom: 0px;
+font-size: 7px;
+
+}
+.main-footer-h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 10px;
+}
+.list-item-ps{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-size: 8px;
+}
+.list-item-p{
+    margin-top: 5px;
+    margin-bottom: 0px;
+    font-size: 8px;
+
+}
+.footer-p{
+    margin-top: 7px;
+    font-size: 8px;
+}
+.footer-txt{
+    margin-top: 10px;
+    font-size: 8px;
+}
+}
